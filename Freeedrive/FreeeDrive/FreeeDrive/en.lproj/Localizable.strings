@@ -1,0 +1,276 @@
+/*
+ Localizable.strings
+ FreeeDriveEnterprise
+ 
+ Created by KL on 4/15/16.
+ Copyright © 2016 ColeStreet. All rights reserved.
+ */
+
+"login"                 = "LOG IN";
+"signup"                = "REGISTER";
+"hello"                 = "HELLO!";
+"english"               = "English";
+"french"                = "Français";
+"dutch"                 = "Dutch";
+"spanish"	    ="Español";
+"firstname"             = "First name";
+"lastname"              = "Last name";
+"email"                 = "Email";
+"phone"                 = "Phone number";
+"validate"              = "VALIDATE";
+"notifications"         = "MESSAGES";
+"no_notifications_found" = "NO MESSAGES";
+
+
+
+
+
+"personal_informations" = "PERSONAL INFORMATION";
+
+"professional_informations" = "PROFESSIONAL INFORMATION";
+"function"              = "Function";
+"department"            = "Department";
+"work_site"             = "Work site";
+
+"sales"                 = "Sales";
+"it_service"            = "IT Service";
+"sent_email"            = "You have been sent an email\nto continue.\nPlease, check your email account";
+"ok"                    = "OK";
+//"not_verified" = "The link we sent you by email\nhasn't been validated yet.\nPlease, check your emails.\n\nDo you want us to send you\nanother email?";
+"not_verified"          = "The link we sent you by email\nhasn't been validated yet.\nPlease, check your emails.";
+"yes"                   = "YES";
+"no"                    = "NO";
+"no_contract"           = "Sorry, we have no company\ncontract yet for this domain.\nWould you like more informations?";
+"drive_safe"            = "ENJOY SAFE DRIVING";
+"allowed"               = "ALLOWED APPS";
+"auto_reply"            = "AUTO REPLY";
+"off"                   = "OFF";
+"on"                    = "ON";
+"settings"              = "SETTINGS";
+"menu"              = "Menu";
+"bluetooth"             = "BLUETOOTH";
+
+"allowed"               = "ALLOWED APPS";
+"auto"                  = "AUTO-REPLY";
+"rate"                  = "CONTACT US";
+"account"               = "ACCOUNT";
+"credits"               = "ABOUT";
+"cancel"                = "CANCEL";
+"exit"                  = "EXIT";
+"notification_access"   = "FreeeDrive must be selected\nas a notification manager in\norder to run the application\nproperly.";
+"credits"               = "CREDITS";
+"tanguy1"               = "Tanguy Biart - CEO";
+"tanguy2"               = "tanguy.biart@barefoot-studio.be";
+"gus1"                  = "Augustin van Rijckevorsel - Founder";
+"gus2"                  = "gus@barefoot-studio.be";
+"mora1"                 = "Jennifer Mora - Business designer";
+"mora2"                 = "jennifer@barefoot-studio.be";
+"salim1"                = "Salim Joudad - Growth hacker";
+"salim2"                = "salim@barefoot-studio.be";
+"freeedrive_website"    = "www.freeedrive.com";
+"logout"                = "LOG OUT";
+"whitelist"             = "freeedrive.com/whitelist";
+"allowed_categories"    = "ALLOWED CATEGORIES OF APPS:";
+"see_all"               = "SEE ALL THE APPS HERE:";
+"fleet_list"            = "FLEET LIST";
+"save"                  = "SAVE";
+"auto_reply_message"    = "AUTO-REPLY MESSAGE";
+"activated_by_default"  = "Activated by default when\nthere is a message";
+"write_here"            = "Write here your questions or comments.";
+"any_comments"          = "Any comments?";
+"send"                  = "SEND";
+"all_fields_mandatory"  = "All fields are mandatory";
+"invalid_email"         = "Invalid email";
+"error"                 = "An error has occurred";
+"check_email"           = "Please check your email";
+"rate_invalid"          = "Please input a message";
+"refresh"               = "REFRESH";
+"bt_settings"           = "You need to select a Bluetooth connection";
+"bt_enable_settings"    = "Please enable your Bluetooth connection";
+"driving"               = "DRIVING";
+"walking"               = "WALKING";
+"stationary"            = "STATIONARY";
+"bad_usage"             = "Please revert to good usage!";
+"no_internet"           = "No internet connection";
+"bt_notActive"          = "Bluetooth off";
+"bt_off"                = "Please turn on your bluetooth";
+"confirm_email"         = "Please confirm your email";
+"earn_point"            = "Keep phone in pocket \n\nPut phone in holder";
+"loose_point"           = "Hand held use \n\nNot handsfree calling";
+"SPEECH_PHONEDOWN"        = "Please, put the phone down";
+"BADBEHAVIOR"            = "Dangerous behavior";
+"Monitoring_not_available" = "Monitoring not available";
+"iBeacon_detection_are_not_available_with_your_device" = "iBeacon detection are not available with your device";
+"iBeacon_detection" = "iBeacon detection";
+"hi" = "Hi";
+"welcome_back_Ready_for_a_safe_drive" = "Welcome back. Ready for a safe drive?";
+"App_Permission_Denied" = "App Permission Denied";
+"Location_disabled_to_re_enable_please_go_to_Settings_and_turn_on_Location_Service_for_this_app" = "Location disabled, to re-enable, please go to Settings and turn on Location Service for this app.";
+"Location_Services_Disabled!"="Location Services Disabled!";
+"Please_enable_Location_Based_Services_for_better_results_We_promise_to_keep_your_location_private" = "Please enable Location Based Services for the good use of the app.";
+"Settings" = "Settings";
+"PHONE_LOCKED"="phone locked";
+"PHONE_UNLOCKED"="phone unlocked";
+"confirm_new_phone"     = "An email has been send to validate your new phone";
+"save_succeed"          = "Your account is updated";
+"email_taken"           = "This email is already registered";
+"invalid_phone"         = "Your number should not start with \'0\' or \'+\'international format";
+"invalid_phone_length"         = "Invalid number length";
+"hours_minutes"         = "%lu h %lu min";
+"minutes"               = "%i min";
+"minute"                = "%i min";
+"last_drive"            = "MY LATEST RIDE";
+"all_drive"             = "ALL MY RIDES";
+"drive_time"            = "DRIVING TIME";
+"feedback_ok"           = "Thank you for your feedback!";
+"distraction"  = "DISTRACTIONS";
+
+
+
+"information"= "INFORMATION";
+"faq" = "FAQ";
+"my_notifications"="MY MESSAGES";
+"my_profile"="MY PROFILE";
+"find_my_car"="FIND MY CAR";
+"contact_us"="CONTACT US";
+"sync" = "SYNC";
+
+
+"well_done" ="WELL DONE!";
+"watch_out" ="WATCH OUT!";
+"risky_behavior"="RISKY BEHAVIOR!";
+"keep_on_safe_driving" = "Keep on safe driving.";
+"have_you_been_distracted" = "Have you been distracted?";
+"cant_your_smartphone_wait" ="Can't your smartphone wait?";
+
+
+
+
+"keep_phone_in_pocket"="Keep phone in pocket";
+"put_phone_in_holder"="Put phone in holder";
+"hand_held_use"="Hand held use";
+"not_handsfree_calling"="Not hands free calling";
+
+
+//new words
+"next" = "NEXT";
+"here" = "here";
+"new_phone_number_update"="New phone number? Update ";
+"new_connector_update" = "New DrivePad? Update ";
+
+
+//main
+"latest_ride" = "Latest Ride";
+"arrival" = "Arrival";
+"all_rides"="All Rides";
+"total_scores"="TOTAL SCORE";
+"total_distractions"="TOTAL DISTRACTIONS";
+
+
+"update" ="UPDATE";
+//"notifications" = "Notifications"; alreay diclared at top
+
+
+//confirm
+"complete_the" = "complete the ";
+"4_digit_code"="4 digit code";
+"you_received_by_sms"= "you received by sms";
+"havnt_recieved_the_sms"="Haven't received the sms";
+"send_again"="Send again";
+
+"invalid_code"="Your code is either incorrect or expired";
+
+"code_length_invalid"="The code should be of 4 digits";
+
+//qrcode
+"scan_the"= "Scan the ";
+"qr_code_placed"="QR code placed";
+"on_the_back_of_your_beacon"="on the back of your DrivePad";
+"scan"="SCAN";
+
+//error messages
+"code_expired"="SMS code has been expired, please click Send again";
+"resend_smscode"= "Please wait for 1 min and check your messages for verification code";
+"server_error"="Server Error,please try again later!";
+"number_already_exist"="This phone number is already registered. Try to login.";
+"invalid_uuid"="Invalid Beacon Id";
+"not_registered"="You\'re not registered";
+"server_error_register"= "Please try again later";
+
+
+
+//termsandcondtions
+"terms_title"="Terms & Conditions";
+"terms_detail"="By continuing with the registration, you accept Freedrive's terms and conditions.  \n \n To view the full details, click on";
+"privacy_policy_title"="Privacy Policy";
+"accept_terms_title"="ACCEPT";
+
+
+
+"error_networkCallFailure"="Your settings have not been saved because you are not connected to the internet";
+
+"device_already_registered"="You\'re not allowed to login on this device.\nContact us at info@freeedrive.com to update your account";
+"permission_denied_camera"="Enable Camera permissions from settings";
+
+"faq_q1" = "What is Freeedrive?";
+"faq_a1"="Freeedrive is the fleet safety solution, aiming to prevent the use of smartphones behind the wheel. On the one hand, the use of disruptive phone applications is discouraged. On the other hand, the safety score provides the driver and the fleet manager with an overview of fleet safety.";
+
+"faq_q2" = "Does Freeedrive respect my privacy?";
+"faq_a2"="Yes, we have deposited our database to the Privacy Commission of Belgium. The data that we collect are used for non-commercial purposes - driving time and safety scoring.";
+
+"faq_q3" = "What does my fleet manager see or know about me?";
+"faq_a3"="The fleet manager can see your driving score and driving time.";
+
+"faq_q4" = "Can I stop using Freeedrive if I am a passenger?";
+"faq_a4"="Freeedrive only activates when you are driving in your car, not in somebody else's. If you however are a passenger in your car, Freeedrive will activate.";
+
+"faq_q5" = "Can I connect to multiple DrivePads or use multiple phones with one DrivePad?";
+"faq_a5"="No and no. One DrivePad works with one phone since it is registered with a certain phone number. You cannot connect multiple phones to the same DrivePad neither use several DrivePads with one Freeedrive account at the moment.In the next version we will include the option of connecting multiple phones to one DrivePad.Though, you can place the DrivePad in different cars.";
+
+"faq_q6" = "How does Freeedrive work?";
+"faq_a6"="1. Connect your smartphone to the DrivePad 2. Once connected, your smartphone will give you notifications (vocal/text/vibrations), if you use your phone while driving. 3. Freeedrive will register your driving time and your score for the rides.";
+
+"faq_q7" = "What is dangerous behavior?";
+"faq_a7"="Every second that the phone is 'unlocked and moving' you get a notification of Dangerous Behavior, 'please put your phone down!'";
+
+"faq_q8" = "What is safe behavior?";
+"faq_a8"="Safe behavior is no hand held use of the phone while driving. So screen locked or phone in holder with screen unlocked is safe behavior.";
+
+"faq_q9" = "What if I have a really bad score?";
+"faq_a9"="This means you are distracted while driving.";
+
+"faq_q10" = "What are the score percentages of Freeedrive?";
+"faq_a10"="The standard percentage is 100% and this score will diminish for every dangerous behavior you perform.";
+
+
+"faq_q11" = "What is an auto reply?";
+"faq_a11"="If someone sends you a text message while you are driving, they receive an auto reply to contact you later (only for Android).";
+
+"faq_q12" = "What do the notifications mean?";
+"faq_a12"="* GPS Notification: Can you activate your GPS please? This notification is necessary to update scores. Bluetooth Notification: Please select your DrivePad which you use while driving.";
+
+"faq_q13" = "Does Freeedrive need an Internet connection?";
+"faq_a13"="Freeedrive does not need an Internet connection while the driver is driving. Once every 24h Freeedrive will update the safety score on the servers, preferably when in wifi zone.";
+
+"faq_q14" = "How much data are we using?";
+"faq_a14"="";
+
+"faq_q15" = "How much battery does Freeedrive use?";
+"faq_a15"="Freeedrive uses less than 3% battery by 1h usage.";
+
+"faq_q16" = "Do I have to activate the notifications in Freeedrive?";
+"faq_a16"="Yes, this is necessary to receive the messages your fleet managers sends.";
+
+"faq_q17" = "Is necessary that the Bluetooth stays active?";
+"faq_a17"="Yes, so that it can connects automatically when you enter your car and Freeedrive will activate. The new Bluetooth functionalities use almost no battery.";
+
+"faq_q18" = "What is a DrivePad and why do I need it?";
+"faq_a18"="The DrivePad is a small Bluetooth device which allows for the collection of your driving data while in your vehicle. There is no installation necessary, just place it safe inside your vehicle. The DrivePad allows your phone and Freeedrive app to record trips automatically. We recommend to place the DrivePad under the steering wheel with the tape foreseen at the bottom of the device.";
+
+
+"faq_q19" = "How long does the DrivePad's battery last?";
+"faq_a19"="The DrivePad has an expected battery life of 3-4 years.";
+
+"faq_q20" = "What happens when I receive a notification at the end of my ride, when I leave the car?";
+"faq_a20"="The notifications of the last 15 seconds of your ride will not be taken into consideration for the calculation of your score.";
+

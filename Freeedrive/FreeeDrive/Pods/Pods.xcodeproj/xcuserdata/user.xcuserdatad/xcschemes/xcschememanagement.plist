@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FRHyperLabel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FreeeDrive.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FreeeDriveTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-FreeeDriveUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8CDA8E16C4998A447051F7AEAFED65E9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9CCED05154E765FA5AAC922D3F7114AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D9EFC26A81BDFA42788736B8805E26FF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FCFEFF3721D4BA0D64DAB5C7AC0618A4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

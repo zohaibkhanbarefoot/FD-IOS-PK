@@ -1,0 +1,59 @@
+//
+//  FreeeDriveEnterprise-Prefix.pch
+//  FreeeDriveEnterprise
+//
+//  Created by Eddy Van Hoeserlande on 21/10/2016.
+//  Copyright © 2016 ColeStreet. All rights reserved.
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+//1994
+#define DEBUG                   0
+#define LOGGING                 1
+#define LOG                     "fd.log"
+//#define BADBEHAVIOR             @"Dangerous behavior"
+//#define SPEECH_PHONEDOWN        @"Please, put the phone down"
+//#define SPEECH_LOCKED           @"screen locked"
+//#define SPEECH_UNLOCKED         @"screen unlocked"
+#define TRIGGERSNEEDEDFORVOICE 5
+#define KEEPBACKGROUNDTIMESALIFE 30 //10 sec x 30 (6 x 5) = 5 min
+//iBeacon 1 : C6008844-E445-4511-8771-1550227788AF
+//iPhone : D0588530-E8AA-42E4-98F0-DB3F624B18F8
+//Rad : E1C3D862-0064-4421-98BB-026BB8C79817
+
+#define speedlimit 10
+#define pauseTimerVal 5
+#define rideFinishTimerVal 480
+#define beaconLostTimerVal 120
+#define locServiceStopTimerVal 20
+#define notificationVolume 1
+#define distanceAccuracy  15
+#define distanceFilterval  25  //kCLDistanceFilterNone
+#define audiosession_Category  AVAudioSessionCategoryPlayback //gggg
+#define audiosession_CategoryOptions AVAudioSessionCategoryOptionMixWithOthers  // | AVAudioSessionCategoryOptionAllowBluetooth //AVAudioSessionCategoryOptionMixWithOthers
+//AVAudioSessionCategoryOptionDuckOthers | AVAudioSessionCategoryOptionAllowBluetooth //AVAudioSessionCategoryOptionMixWithOthers
+#define maxSpeedLimit 120
+//#define BEACON @"1089afe8-c1d3-11e6-a4a6-cec0c932ce01"
+//#define BEACON @"C6008844-E445-4511-8771-1550227788AF"
+//#define BEACON @"00000000-0000-0000-0000-000000000001"
+
+
+#define time_reachAbilityCheckInterval 108000
+#define BEACON @"00000000-0000-0000-0000-000000000001"
+#define BEACON_MAJOR 0001
+#define BEACON_MINOR 0001
+#define BEACON_IDENTIFIER @"New beacon"
+#ifndef FreeeDriveEnterprise_Prefix_pch
+#define FreeeDriveEnterprise_Prefix_pch
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#endif /* FreeeDriveEnterprise_Prefix_pch */
+
